@@ -1,0 +1,17 @@
+Field=Comment~String~Comment~146|Field=Description~String~Description~115|Field=Designator~String~Designator~335|Field=Footprint~String~Footprint~124|Field=LibRef~String~LibRef~146|Field=Quantity~Integer~Quantity~68|Field=Value~String~Value~462|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Model 1.PrjPcb|ReportField=ProjectFullPath~C:\Users\jonathan\Documents\Model 1\Model 1.PrjPcb|ReportField=Title~Bill of Materials For Project [Model 1.PrjPcb] (PCB Document : pcb.PcbDoc)|ReportField=TotalQuantity~43|ReportField=ReportTime~6:33:01 PM|ReportField=ReportDate~10/13/2014|ReportField=ReportDateTime~10/13/2014 6:33:01 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~10/13/2014|ReportField=CurrentTime~5:50:21 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\jonathan\Documents\Model 1\schematic.SchDoc|ReportField=DocumentName~schematic.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~Jonathan Helm|ReportField=Engineer~Jonathan Helm|ReportField=ImagePath~|ReportField=ModifiedDate~10/13/2014|ReportField=Organization~Roddewig and Helm|ReportField=PageSetup~Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=2.17|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A2|PaperIndex=66|ReportField=ProjectName~Model 1.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~Model 1|ReportField=DataSourceFileName~Model 1.PrjPcb|ReportField=DataSourceFullPath~C:\Users\jonathan\Documents\Model 1\Model 1.PrjPcb|ReportField=PCBDataSourceFileName~pcb.PcbDoc|ReportField=PCBDataSourceFullPath~C:\Users\jonathan\Documents\Model 1\pcb.PcbDoc
+Resistor||R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17|RES0805|Resistor|15|800k, 100k, 200k, 800k, 2Meg, 2Meg, 100k, 200k, 200k, 90k, 100, 100k, 14.65k, 138k, 8.06k
+Capacitor-EB Series, Type A|Electrolytic Capacitor|C8, C9|EB Series Type A - 8mm|Capacitor-EB Series, Type A|2|270u
+Resistor||R1, R2|RES1206|Resistor|2|125, 13.5k
+Capacitor-EB Series, Type A|Electrolytic Capacitor|C1, C3|EB Series Type A - 5mm|Capacitor-EB Series, Type A|2|1uF
+Inductor||L1|RES1206|Inductor|1|1u
+Capacitor||C2, C4, C5, C6, C7|CAP0805|Capacitor|5|0.1uF, 1000 pF, 1000pF, 2200 pF, 2200p
+110-73||S1|100-73|110-73|1|
+1N5817||D1, D2, D5, D6|DO-41|1N5817|4|
+1N750||D4|DO-35|1N750|1|
+ATtiny25||U1|PDIP-8|ATtiny25|1|
+BSS123||Q3, Q4|3-Lead SOT-23|BSS123|2|
+BZX84C12L||D3|3-Lead SOT-23|BZX84C12L|1|
+IRFB4110Z||Q5, Q6|TO-220|IRFB4110Z|2|
+LTC3703||U2|SSOP-16|LTC3703|1|
+RB8522-16-3M0||L2|RB8522-16-3M0|RB8522-16-3M0|1|
+SI7489DP||Q1, Q2|PowerPAK SO-8|SI7489DP|2|
